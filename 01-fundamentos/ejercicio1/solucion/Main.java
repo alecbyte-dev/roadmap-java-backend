@@ -1,4 +1,4 @@
-package etapa01.ejercicio1;
+package scratch.ejercicio1;
 public class Main {
 
     public static void main(String[] args) {
